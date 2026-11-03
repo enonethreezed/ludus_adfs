@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "ludus_adfs",
+  "project_id": "baa36707-0d05-4719-8951-39a4e152b806"
+}
