@@ -17,7 +17,7 @@ ludus:
     role_vars:
       dns_name: gitlab
       dns_zone: "ludus.nuketown"
-      dns_ip: 10.2.10.100
+      dns_ip: 10.1.10.100
       adfs_service_account: "LUDUS\\adfs_svc"
       adfs_fqdn: adfs.ludus.nuketown
       target_ou_dn: "DC=ludus,DC=nuketown"
@@ -104,5 +104,5 @@ ludus:
       adfs_host: ADFS-WinServer2022
       adfs_service_account: 'ludus\adfs_svc'
       dc_host: DC01-WinServer2022
-      gitlab_ip: 10.2.10.100
+      gitlab_ip: 10.1.10.100
       gitlab_version: 18.6.2
